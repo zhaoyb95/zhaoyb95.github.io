@@ -2623,6 +2623,7 @@ input, select, textarea {
 
 		ol li {
 			padding-left: 0.25em;
+			margin:  1.0em 0;
 		}
 
 	ul {
