@@ -3241,6 +3241,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
+			background-image: url("images/background3.jpg");
 			background-color: #5e42a6;
 		}
 
@@ -3257,7 +3258,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #a44dff;
+			background-image: url("images/background4.jpg");
+			/*background-color: #a44dff*/;
 		}
 
 		.wrapper.style3-alt {
@@ -3371,6 +3373,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
+		/*background-image: url("images/background1.jpg");*/
 		background-color: #5e42a6;
 		cursor: default;
 		padding: 1.75em 2em;
@@ -3525,6 +3528,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
+		/*background-image: url("images/background1.jpg");*/
 		background: #312450;
 		cursor: default;
 		height: 100vh;
